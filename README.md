@@ -15,7 +15,7 @@ out collectively by the network. Egypt Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Egypt Core software, see [https://egypt.org](https://egyptegy.com).
+the Egypt Core software, see [https://egyptegy.com](https://egyptegy.com).
 
 License
 -------
