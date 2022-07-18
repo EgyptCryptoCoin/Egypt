@@ -3,7 +3,7 @@ Egypt Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/egypt-project/egypt.svg?branch=master)](https://travis-ci.org/egypt-project/egypt)
 
-https://egypt.org
+https://egyptegy.com
 
 What is Egypt?
 ----------------
